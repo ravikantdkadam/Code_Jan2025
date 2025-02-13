@@ -3,7 +3,7 @@ package BasicOops;
 public class git {
 	
 	public static void main(String[] args) {
-		System.out.println("This is not git concept ");
+		System.out.println("This is not git concept-changes for conflict ");
 	}
 
 }
