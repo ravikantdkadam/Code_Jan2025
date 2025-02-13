@@ -11,7 +11,7 @@ package BasicOops;
 	   
 
 	
-	abstract void tata();  // abstract method 
+	public abstract void tata();  // abstract method 
 	
 	
 	void bmw() {   // non abstarct method 
